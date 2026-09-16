@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Data - don't upload datasets automatically
+data/
+datasets/
+*.csv
+*.zip
+
+# Models
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db.venv.venv/
+.venv.venv/**
