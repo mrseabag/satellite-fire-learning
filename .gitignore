@@ -36,3 +36,6 @@ datasets/
 .DS_Store
 Thumbs.db.venv.venv/
 .venv.venv/**
+
+# Notebook outputs (GeoTIFFs)
+outputs/

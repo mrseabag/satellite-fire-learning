@@ -1,0 +1,9 @@
+pystac-client
+planetary-computer
+odc-stac
+dask[array]
+rioxarray
+numpy
+pandas
+matplotlib
+scikit-learn
